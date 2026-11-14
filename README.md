@@ -96,6 +96,13 @@ Each file holds one example exactly as it is printed in the book, under a short 
 
 ## The book
 
-Link to be added once the book is listed on Amazon.
+*Basics First: The IT fundamentals worth knowing, whatever stage you're at* is available as a Kindle book:
 
-Copyright 2026 Rob Swain. Published by Term Talk Pty Ltd.
+- [Amazon Australia](https://www.amazon.com.au/dp/B0HRNRKCM2)
+- [Amazon, outside Australia](https://www.amazon.com/dp/B0HRNRKCM2)
+
+## Licence
+
+The code in this repository is released under the [MIT licence](LICENSE). You are free to use and adapt it, provided the copyright notice stays with it.
+
+The book itself is copyright 2026 Rob Swain, published by Term Talk Pty Ltd, and is not covered by that licence.
